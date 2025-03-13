@@ -58,7 +58,6 @@ git clone https://github.com/FousseyniC/JO-2024.git
 ## Technologies Utilisées
 
 - **HTML / CSS** : Structure et design des pages.
-- **JavaScript** : Fonctionnalités interactives du site.
 - **Trello** : Outil de gestion de projet pour coordonner les tâches du groupe.
 - **Pitch en anglais** : Présentation orale pour mettre en avant les résultats du projet.
 
